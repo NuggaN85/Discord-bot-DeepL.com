@@ -8,7 +8,9 @@
  * MIT Licensed
 ```
 
-___Un bot Discord avec l'API de traduction DeepL.com en Python et en JavaScript.___ 
+Nous proposons un bot Discord doté de l'API de traduction de `DeepL.com`, disponible en Python et en JavaScript. Ce bot permettra à vos utilisateurs de communiquer plus efficacement en traduisant automatiquement leurs messages dans la langue de leur choix. Grâce à notre intégration de l'API de `DeepL.com`, la traduction est précise et rapide, ce qui améliorera considérablement l'expérience utilisateur.
+
+Notre bot Discord est facile à installer et à utiliser, même pour les utilisateurs novices en programmation. N'hésitez pas à nous contacter pour plus d'informations sur notre bot Discord avec l'API de traduction de `DeepL.com`.
 
 Pour utiliser l'API DeepL.com, vous devez créer un compte sur leur site Web et obtenir une clé d'API. Voici les étapes à suivre pour créer votre propre clé d'API DeepL.com :
 
