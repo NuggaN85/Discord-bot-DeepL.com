@@ -14,3 +14,18 @@ Pour utiliser l'API DeepL.com, vous devez créer un compte sur leur site Web et 
 Une fois votre compte développeur créé, vous verrez une clé d'API générée automatiquement. Copiez cette clé API et conservez-la en lieu sûr.
 
 C'est tout ! Vous êtes maintenant prêt à utiliser l'API DeepL.com. Vous pouvez utiliser cette clé d'API dans votre code pour accéder aux services de traduction DeepL.com. Notez que certaines fonctionnalités de l'API DeepL.com sont payantes, vous devrez donc peut-être mettre à niveau votre compte pour utiliser certaines fonctionnalités avancées.
+
+## <strong>❤️</strong> (Contribuer) <strong>❤️</strong>
+
+[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg?style=flat)](https://www.paypal.me/nuggan85) [![GitHub issues](https://img.shields.io/github/issues/NuggaN85/Discord-bot-DeepL.com)](https://github.com/NuggaN85/Discord-bot-DeepL.com/issues) [![GitHub forks](https://img.shields.io/github/forks/NuggaN85/Discord-bot-DeepL.com)](https://github.com/NuggaN85/Discord-bot-DeepL.com/network) [![GitHub stars](https://img.shields.io/github/stars/NuggaN85/Discord-bot-DeepL.com)](https://github.com/NuggaN85/Discord-bot-DeepL.com/stargazers) [![GitHub license](https://img.shields.io/github/license/NuggaN85/Discord-bot-DeepL.com)](https://github.com/NuggaN85/Discord-bot-DeepL.com)
+
+<a target="_blank" href="http://www.copyscape.com/"><img src="http://banners.copyscape.com/img/copyscape-banner-white-200x25.png" width="200" height="25" border="0" alt="Protected by Copyscape" title="Protected by Copyscape Plagiarism Checker - Do not copy content from this page." /></a>
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+- Signalez-nous les bugs que vous remarquez sur via [Github](https://github.com/NuggaN85/Discord-bot-DeepL.com/issues/).
+- Nous-suggérez des modifications sur via [Github](https://github.com/NuggaN85/Discord-bot-DeepL.com/issues/).
+- Suivez [@NuggaN85](https://twitter.com/NuggaN85) sur Twitter
+- Discord : https://discord.gg/4gZsXRKdmJ
+
+--------------------------------------------------------------------------------------------------------------------------------------
