@@ -24,6 +24,10 @@ Une fois votre compte développeur créé, vous verrez une clé d'API générée
 
 C'est tout ! Vous êtes maintenant prêt à utiliser l'API DeepL.com. Vous pouvez utiliser cette clé d'API dans votre code pour accéder aux services de traduction DeepL.com. Notez que certaines fonctionnalités de l'API DeepL.com sont payantes, vous devrez donc peut-être mettre à niveau votre compte pour utiliser certaines fonctionnalités avancées.
 
+Il traduit les messages envoyés en français (ou dans une autre langue autre que l'anglais) en anglais et les envoie dans le chat.
+
+___N'oubliez pas de remplacer `votre_clé_api_deepl` par votre propre clé API DeepL.com et `votre_token_discord` par votre propre jeton Discord.___
+
 ## <strong>❤️</strong> (Contribuer) <strong>❤️</strong>
 
 [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg?style=flat)](https://www.paypal.me/nuggan85) [![GitHub issues](https://img.shields.io/github/issues/NuggaN85/Discord-bot-DeepL.com)](https://github.com/NuggaN85/Discord-bot-DeepL.com/issues) [![GitHub forks](https://img.shields.io/github/forks/NuggaN85/Discord-bot-DeepL.com)](https://github.com/NuggaN85/Discord-bot-DeepL.com/network) [![GitHub stars](https://img.shields.io/github/stars/NuggaN85/Discord-bot-DeepL.com)](https://github.com/NuggaN85/Discord-bot-DeepL.com/stargazers) [![GitHub license](https://img.shields.io/github/license/NuggaN85/Discord-bot-DeepL.com)](https://github.com/NuggaN85/Discord-bot-DeepL.com)
