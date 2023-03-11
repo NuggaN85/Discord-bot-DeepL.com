@@ -1,5 +1,5 @@
 # Discord-bot-DeepL.com
-Un bot Discord avec l'API de traduction DeepL.com en Python et en JavaScript 
+___Un bot Discord avec l'API de traduction DeepL.com en Python et en JavaScript.___ 
 
 Pour utiliser l'API DeepL.com, vous devez créer un compte sur leur site Web et obtenir une clé d'API. Voici les étapes à suivre pour créer votre propre clé d'API DeepL.com :
 
@@ -7,9 +7,9 @@ Pour utiliser l'API DeepL.com, vous devez créer un compte sur leur site Web et 
 
 >2. Connectez-vous à votre compte DeepL et accédez à la page des développeurs : https://www.deepl.com/pro-account/developer/
 
->3. Cliquez sur le bouton "Créer un compte développeur".
+>3. Cliquez sur le bouton `Créer un compte développeur`.
 
->4. Donnez un nom à votre compte développeur et cliquez sur le bouton "Créer un compte développeur".
+>4. Donnez un nom à votre compte développeur et cliquez sur le bouton `Créer un compte développeur`.
 
 Une fois votre compte développeur créé, vous verrez une clé d'API générée automatiquement. Copiez cette clé API et conservez-la en lieu sûr.
 
