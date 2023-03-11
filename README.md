@@ -25,7 +25,9 @@ C'est tout ! Vous êtes maintenant prêt à utiliser l'API DeepL.com. Vous pouve
 
 Il traduit les messages envoyés en français (ou dans une autre langue autre que l'anglais) en anglais et les envoie dans le chat.
 
-___N'oubliez pas de remplacer `votre_clé_api_deepl` par votre propre clé API DeepL.com et `votre_token_discord` par votre propre jeton Discord.___
+Assurez-vous de remplacer les champs `votre_clé_api_deepl` par votre propre clé API DeepL.com et `votre_token_discord` par votre propre jeton Discord avant d'utiliser notre bot. Ces clés sont nécessaires pour que le bot puisse fonctionner correctement et pour assurer la sécurité de votre compte.
+
+Si vous avez besoin d'aide pour obtenir votre clé API DeepL.com ou votre jeton Discord, n'hésitez pas à consulter notre documentation ou à contacter notre équipe d'assistance pour obtenir de l'aide. Nous sommes là pour vous aider à tirer le meilleur parti de notre bot Discord avec l'API de traduction de DeepL.com.
 
 ## <strong>❤️</strong> (Contribuer) <strong>❤️</strong>
 
