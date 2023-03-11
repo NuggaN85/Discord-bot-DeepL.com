@@ -1,4 +1,13 @@
 # Discord-bot-DeepL.com
+
+```
+ * Dev: NuggaN85
+ * Github: NuggaN85
+ * Twitter: @NuggaN85
+ * Copyright © 2023 All rights reserved.
+ * MIT Licensed
+```
+
 ___Un bot Discord avec l'API de traduction DeepL.com en Python et en JavaScript.___ 
 
 Pour utiliser l'API DeepL.com, vous devez créer un compte sur leur site Web et obtenir une clé d'API. Voici les étapes à suivre pour créer votre propre clé d'API DeepL.com :
