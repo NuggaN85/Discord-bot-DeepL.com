@@ -23,8 +23,8 @@ C'est tout ! Vous êtes maintenant prêt à utiliser l'API DeepL.com. Vous pouve
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-- Signalez-nous les bugs que vous remarquez sur via [Github](https://github.com/NuggaN85/Discord-bot-DeepL.com/issues/).
-- Nous-suggérez des modifications sur via [Github](https://github.com/NuggaN85/Discord-bot-DeepL.com/issues/).
+- Signalez-nous les bugs que vous remarquez sur via [Github](https://github.com/NuggaN85/Discord-bot-DeepL.com/issues/2).
+- Nous-suggérez des modifications sur via [Github](https://github.com/NuggaN85/Discord-bot-DeepL.com/issues/3).
 - Suivez [@NuggaN85](https://twitter.com/NuggaN85) sur Twitter
 - Discord : https://discord.gg/4gZsXRKdmJ
 
